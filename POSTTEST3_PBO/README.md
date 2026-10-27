@@ -436,3 +436,7 @@ Penjelasan hasil:
 - Status pesanan berubah dari `Diterima` menjadi `Selesai`.
 - `2 item` berasal dari `__len__` pada `Pesanan`.
 
+
+## 16 Gambar class diagram 
+
+![alt text](<Screenshot 2026-10-27 094824.png>)

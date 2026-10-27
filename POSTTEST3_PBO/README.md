@@ -442,4 +442,5 @@ Penjelasan hasil:
 ![alt text](<class_diagram.drawio (1).png>)
 
 ## 17 Gambar screenshoot output program
+
 ![alt text](<Screenshot 2026-10-27 094824.png>)
